@@ -1,2 +1,2 @@
-# ngentotenak
-ngentotenak
+
+[ngentotenak](https://ngentotenak.pages.dev)
